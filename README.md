@@ -17,7 +17,7 @@
 
 -   **Backend:** [Go](https://golang.org/) (Pure Go)
 -   **Web Framework:** [Gin](https://gin-gonic.com/)
--   **Database:** [PostgreSql](https://www.sqlite.org/](https://www.postgresql.org/) 
+-   **Database:** [PostgreSql]([https://www.sqlite.org/]](https://www.postgresql.org/])
 -   **Authentication:** [JWT](https://jwt.io/) (using `golang-jwt/jwt`)
 -   **Password Hashing:** `golang.org/x/crypto/bcrypt`
 -   **Frontend:** Server-side rendering with NextJS, tailwind.
