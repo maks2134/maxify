@@ -1,4 +1,4 @@
-# Software Requirements Specification (SRS) for Moxify
+# Software Requirements Specification (SRS) for Maxify
 
 ---
 
