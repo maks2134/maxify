@@ -23,3 +23,7 @@
 -   **Frontend:** Server-side rendering with NextJS, tailwind.
 -   **File Storage:** Local filesystem (`uploads` directory)
 
+## 📄 Documentation
+
+-   **Software Requirements Specification:** [SRS](./docs/SRS.md) 
+

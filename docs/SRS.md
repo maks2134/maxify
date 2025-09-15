@@ -94,19 +94,19 @@ The "Moxify" application is a web service that allows registered users to upload
 Graphical mockups of the user interface are presented below. They illustrate the key application screens.
 
 **Application Login Window.**
-![Login Window](/docs/mockups/login.png)
+![Login Window](/docs/mockups/login.jpeg)
 
 **New User Registration Window.**
-![Registration Window](/docs/mockups/register.png)
+![Registration Window](/docs/mockups/register.jpeg)
 
 **Main Application Window (Track Library).**
-![Main Window - Library](/docs/mockups/library.png)
+![Main Window - Library](/docs/mockups/library.jpeg)
 
 **Playlist View and Management Window.**
-![Playlist Management](/docs/mockups/playlist.png)
+![Playlist Management](/docs/mockups/playlist.jpeg)
 
 **New Track Upload Window.**
-![Upload Track](/docs/mockups/upload.png)
+![Upload Track](/docs/mockups/upload.jpeg)
 
 <a name="user-characteristics"/>
 
