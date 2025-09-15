@@ -1,9 +1,9 @@
-# Moxify
+# Maxify
 
 [![Go Version](https://img.shields.io/badge/Go-1.25%2B-blue)](https://golang.org/)
 [![Gin Framework](https://img.shields.io/badge/Framework-Gin-green)](https://gin-gonic.com/)
 
-**Moxify** is a learning project, a minimum viable product (MVP) Spotify-like application, built with Go. It allows users to manage their personal music library: upload tracks, create playlists, and stream music through a web interface.
+**Maxify** is a learning project, a minimum viable product (MVP) Spotify-like application, built with Go. It allows users to manage their personal music library: upload tracks, create playlists, and stream music through a web interface.
 
 ## 🚀 Features (MVP)
 
