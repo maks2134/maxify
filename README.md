@@ -15,7 +15,7 @@
 
 ## 🛠️ Tech Stack
 
--   **Backend:** [Go](https://golang.org/) (Pure Go)
+-   **Backend:** [Go](https://golang.org/)
 -   **Web Framework:** [Gin](https://gin-gonic.com/)
 -   **Database:** [PostgreSql](https://www.postgresql.org/])
 -   **Authentication:** [JWT](https://jwt.io/) (using `golang-jwt/jwt`)
