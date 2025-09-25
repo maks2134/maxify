@@ -25,5 +25,13 @@
 
 ## 📄 Documentation
 
--   **Software Requirements Specification:** [SRS](./docs/SRS.md) 
+-   **Software Requirements Specification:** [SRS](./docs/SRS.md)
+-   **Domain Model:** [DM](./docs/DOMAIN_MODEL.md)
+-   **Glossary:** [GL](./docs/GLOSSARY.md)
+-   **Use Cases:** [UC](./docs/USE_CASES.md)
+-   **Sequence diagrams:** [SD](./docs/SEQUENCE_DIAGRAMS.md)
+-   **State diagrams:** [SD](./docs/STATE_DIAGRAMS.md)
+-   **Activity diagrams:** [AD](./docs/ACTIVITY_DIAGRAMS.md)
+-   **Component diagrams:** [CD](./docs/COMPONENT_DIAGRAMS.md)
+-   **Deployment diagrams:** [DD](./docs/DEPLOYMENT_DIAGRAMS.md)
 
