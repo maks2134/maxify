@@ -1,0 +1,34 @@
+version: '3.8'
+
+services:
+  postgres:
+    image: postgres:15
+    container_name: maxify_postgres
+    environment:
+      POSTGRES_DB: maxify
+      POSTGRES_USER: maxify_user
+      POSTGRES_PASSWORD: maxify_password
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    networks:
+      - maxify_network
+
+  redis:
+    image: redis:7-alpine
+    container_name: maxify_redis
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+    networks:
+      - maxify_network
+
+volumes:
+  postgres_data:
+  redis_data:
+
+networks:
+  maxify_network:
+    driver: bridge
