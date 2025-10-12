@@ -114,8 +114,6 @@ func (s *SearchService) searchPlaylists(query string, userID uuid.UUID, limit, o
 			Name:        playlist.Name,
 			Description: playlist.Description,
 			UserID:      playlist.UserID,
-			CreatedAt:   playlist.CreatedAt.Format("2006-01-02T15:04:05Z07:00"),
-			UpdatedAt:   playlist.UpdatedAt.Format("2006-01-02T15:04:05Z07:00"),
 		})
 	}
 
