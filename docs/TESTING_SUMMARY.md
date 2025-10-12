@@ -17,8 +17,6 @@ Based on the Software Requirements Specification (SRS), the main testing objecti
 - **Backend:** Go microservices on localhost:8080
 - **Frontend:** Next.js application on localhost:3000
 - **Database:** PostgreSQL 15 with Redis cache
-- **Test Date:** December 12, 2024
-- **Duration:** 2 hours
 
 ### Test Results Overview
 - **Total Test Cases:** 15

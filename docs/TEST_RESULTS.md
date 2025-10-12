@@ -3,9 +3,6 @@
 ## Document Information
 - **Project:** Maxify - Personal Music Streaming Service
 - **Version:** 1.0
-- **Test Execution Date:** December 2024
-- **Tester:** Development Team
-- **Test Environment:** Development/Staging
 - **Status:** In Progress
 
 ## Table of Contents

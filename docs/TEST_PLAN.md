@@ -3,8 +3,6 @@
 ## Document Information
 - **Project:** Maxify - Personal Music Streaming Service
 - **Version:** 1.0
-- **Date:** December 2024
-- **Author:** Development Team
 - **Status:** Draft
 
 ## Table of Contents
