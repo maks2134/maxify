@@ -126,5 +126,4 @@ For questions about testing or to report issues, please contact the development 
 
 ---
 
-**Last Updated:** December 12, 2024  
 **Status:** Initial Testing Complete
