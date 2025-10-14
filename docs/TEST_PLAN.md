@@ -341,5 +341,4 @@ This test plan covers the complete Maxify application including:
 
 **Document Control**
 - Version: 1.0
-- Last Updated: December 2024
 - Next Review: As needed based on project changes
